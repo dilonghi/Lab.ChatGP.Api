@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-Lab.ChatGP.Api/appsetting.json
-Lab.ChatGP.Api/appsetting.Development.json
+Lab.ChatGP.Api/appsettings.json
+Lab.ChatGP.Api/appsettings.Development.json
 
 
 # User-specific files
