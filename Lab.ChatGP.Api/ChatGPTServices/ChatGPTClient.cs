@@ -41,8 +41,9 @@ public class ChatGPTClient : IChatGPTClient
                 return chatGptResponse;
         }
 
-        if(responseMessage.StatusCode == System.Net.HttpStatusCode.TooManyRequests)
-            return ChatGptResponse
+        //if(responseMessage.StatusCode == System.Net.HttpStatusCode.TooManyRequests)
+        //    return ChatGptResponse
+
         return null;
 
 
